@@ -12,3 +12,6 @@ git push -u origin main
 git remote set-url origin https://github.com/aarif-123/sms-classificarion.git
 git pull origin main --allow-unrelated-histories
 git push -u origin main
+
+
+nvidia-smi to check availabiltiy of gpu
